@@ -13,7 +13,7 @@ This project aims to answer the following questions:
 Following tools were used for the completion of this project:
 - SQL- primary tool used for queries to collect relevant data and generate insights.
 - PostgreSQL- data base management used to access data.
-- VSS- primary code editor for writing queries.
+- Visual studio code- primary code editor for writing queries.
 - Git & Github - used for version control and to share the project
 - Excel- csv used to upload data to the database. 
 # 4. ANALYSIS
