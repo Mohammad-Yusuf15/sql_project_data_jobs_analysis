@@ -221,4 +221,3 @@ From the analysis, several general insights emerged:
 - Optimal Skills for Job Market Value: SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 ### Final thoughts
 This project helped understand the latest trends in data jobs specifically for data analyst roles, exploring the highest paying jobs, most in-demand skills and highest paying skills. It also helped me enhance my knowledge and skills for SQL querying and PostgreSQL.
-[view the interactive dashboard](https://public.tableau.com/app/profile/mohammad.yusuf7583/viz/IPLproject_17260692318260/Dashboard4)
